@@ -1,0 +1,136 @@
+{
+    "politechnicum": "Polytechnicum",
+    "home": "Home",
+    "about": "About",
+    "education": "Education",
+    "schedule": "Schedule",
+    "rules": "Rules",
+    "news": "News",
+    "support": "Support",
+    "contact": "Contact",
+    "logout": "Log Out",
+    "footer": {
+        "about-us": "About us",
+        "education": "Education",
+        "teachers": "Our teachers",
+        "gallery": "Photo gallery",
+        "news-and-events": "News & Events",
+        "support": "Support",
+        "rules-and-documents": "Rules & Documents",
+        "about-us-p": "Providing quality education since 1998. Developing knowledge, creativity, and character."
+    },
+    "sidebar": {
+        "album": "Album",
+        "schedule": "Schedule",
+        "club": "Club",
+        "history": "History",
+        "information": "Information",
+        "school": "School",
+        "schoolhours": "School Hours",
+        "target": "Target",
+        "vacancy": "Vacancy",
+        "value": "Value",
+        "position": "Position",
+        "user": "User",
+        "employee": "Employee",
+        "news": "News",
+        "document": "Document",
+        "rules": "Rules"
+    },
+    "actions": {
+        "create": "Create",
+        "update": "Update",
+        "delete": "Delete",
+        "upload": "Upload",
+        "download": "Download",
+        "save": "Save",
+        "cancel": "Cancel",
+        "find-more": "Find out more",
+        "see-all": "See all"
+    },
+    "languages": {
+        "kk": "Karakalpak",
+        "uz": "Uzbek",
+        "ru": "Russian",
+        "en": "English"
+    },
+    "messages": {
+        "confirmDelete": "Are you sure you want to delete this item?"
+    },
+    "gallery": {
+        "gallery-title": "Gallery",
+        "gallery-p": "Explore our school life through photos of events, rooms, and student activities.",
+        "view-all-photos": "View all photos"
+    },
+    "news-page": {
+        "news-title": "School News",
+        "news-p": "Stay updated with the latest news, events, and announcements from our school community.",
+        "back-btn": "Back to News",
+        "read-more": "Read more"
+    },
+    "schedule-page": {
+        "schedule-title": "Class schedule",
+        "schedule-text": "Download the class schedule for the desired class in a convenient format (PDF, Excel, CSV, or JSON).",
+        "download-schedule-title": "Download the class schedule",
+        "download-schedule-text": "Select a class and format to download the schedule",
+        "select-class": "Select a class:",
+        "selected-class": "Class selected:",
+        "not-selected": "not selected",
+        "download-schedule": "Download schedule",
+        "last-update": "Latest schedule update:",
+        "errors": "If you find any errors, please contact the academic department.",
+        "available-schedules": "Available schedules",
+        "available-schedules-p": "List of all schedules available for download",
+        "click-to-download": "Click to download"
+    },
+    "rules-documents": {
+        "rules-documents-title": "School Rules and Documents",
+        "rules-documents-p": "Our school maintains clear rules and policies to ensure a safe, respectful, and productive learning environment for all students.",
+        "rules-title": "School Rules",
+        "shoolhours-title": "School Hours",
+        "documents-title": "Documents"
+    },
+    "support-faq": {
+        "support-faq-title": "Support and FAQ",
+        "support-faq-p": "Find answers to frequently asked questions and get the information you need about our school.",
+        "support-title": "Frequently Asked Questions",
+        "faq-title": "Contact information",
+        "work-hours": "Opening hours"
+    },
+    "education-page": {
+        "education-title": "Education",
+        "education-p": "Our school offers a comprehensive educational program designed to develop well-rounded students with a strong academic foundation and practical skills.",
+        "other-activities": "Extracurricular activities"
+    },
+    "home-page": {
+        "welcome": "Welcome to our school",
+        "welcome-text": "A place where knowledge meets innovation and students prepare for the challenges of tomorrow.",
+        "contact-us": "Contact us",
+        "last-news": "Latest news",
+        "upcoming-events": "Upcoming Events",
+        "find-more-about-us": "Find out more about us",
+        "view-all-events": "View all events",
+        "fast-links": "Quick links",
+        "events": "Parent-Teacher Conference",
+        "teachers-text": "Meet our dedicated team of educators committed to providing the highest quality education and support for our students.",
+        "quick-links": {
+            "schedule": "Class schedule",
+            "documents": "School documents",
+            "teachers": "Our teachers",
+            "course": "Available courses",
+            "gallery": "Photo gallery"
+        }
+    },
+    "about-page": {
+        "about-title": "About our school",
+        "our-history": "Our history",
+        "core-values": "Core values",
+        "mission-vision": "Mission & Vision",
+        "our-mission": "Our Mission & Vision",
+        "school-lidership": "School Leadership",
+        "our-facilities": "Our Facilities"
+    },
+    "teachers-page": {
+        "teachers-title": "Meet Our community"
+    }
+}

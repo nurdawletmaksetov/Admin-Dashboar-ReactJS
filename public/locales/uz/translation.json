@@ -1,0 +1,130 @@
+{
+    "politechnicum": "Politexnikum",
+    "home": "Uy",
+    "about": "Biz haqimizda",
+    "education": "Ta'lim",
+    "schedule": "Jadval",
+    "rules": "Qoidalar",
+    "news": "Yangiliklar",
+    "support": "Qo'llab-quvvatlash",
+    "contact": "Aloqa",
+    "logout": "Chiqish",
+    "footer": {
+        "about-us": "Biz haqimizda",
+        "education": "Ta'lim",
+        "teachers": "O'qituvchilar",
+        "gallery": "Galleriya",
+        "news-and-events": "Yangiliklar & Voqiyalar",
+        "support": "Qo'llab-quvvatlash",
+        "rules-and-documents": "Qoidalar & Hujjatlar",
+        "about-us-p": "1998 yildan beri sifatli ta'lim berish. Bilim, ijodkorlik va xarakterni rivojlantirish."
+    },
+    "sidebar": {
+        "album": "Album",
+        "schedule": "Jadval",
+        "club": "Klub",
+        "history": "Tarix",
+        "information": "Ma'lumot",
+        "school": "Maktab",
+        "schoolhours": "Maktab soatlari",
+        "target": "Maqsad",
+        "vacancy": "Vakansiya",
+        "value": "Qiymat",
+        "position": "Lavozim",
+        "user": "Foydalanuvchi",
+        "employee": "Xodim",
+        "news": "Yangiliklar",
+        "document": "Hujjat",
+        "rules": "Qoidalar"
+    },
+    "actions": {
+        "create": "Yaratish",
+        "update": "Yangilash",
+        "delete": "O'chirish",
+        "upload": "Yuklash",
+        "download": "Yuklab olish",
+        "save": "Saqlash",
+        "cancel": "Bekor qilish",
+        "find-more": "Ko'proq olish",
+        "see-all": "Barchasini ko'rish"
+    },
+    "messages": {
+        "confirmDelete": "Haqiqatdan ham ushbu elementni o'chirmoqchimisiz?"
+    },
+    "gallery": {
+        "gallery-title": "Galleriya",
+        "gallery-p": "Tadbirlar, xonalar va talabalar faoliyati fotosuratlari orqali maktab hayotimizni o'rganing.",
+        "view-all-photos": "Barcha fotosuratlarni ko'rish"
+    },
+    "news-page": {
+        "news-title": "Maktab Yangiliklari",
+        "news-p": "Maktabimiz hamjamiyatining so'nggi yangiliklari, voqealari va e'lonlaridan xabardor bo'ling.",
+        "back-btn": "Yangiliklarga qaytish",
+        "read-more": "Ko'proq o'qish"
+    },
+    "schedule-page": {
+        "schedule-title": "Dars jadvali",
+        "schedule-text": "Kerakli sinf uchun dars jadvalini qulay formatda (PDF, Excel, CSV yoki JSON) yuklab oling.",
+        "download-schedule-title": "Dars jadvalini yuklab oling",
+        "download-schedule-text": "Jadvalni yuklab olish uchun sinf va formatni tanlang",
+        "select-class": "Sinfni tanlang:",
+        "selected-class": "Tanlangan sinf:",
+        "not-selected": "tanlanmagan",
+        "download-schedule": "Jadvalni yuklash",
+        "last-update": "So'nggi jadval yangilanishi:",
+        "errors": "Agar biron bir xato topsangiz, akademik bo'limga murojaat qiling.",
+        "available-schedules": "Mavjud jadvallar",
+        "available-schedules-p": "Yuklab olish mumkin bo'lgan barcha jadvallar ro'yxati",
+        "click-to-download": "Yuklash uchun bosing"
+    },
+    "rules-documents": {
+        "rules-documents-title": "Maktab Qoidalari va Hujjatlari",
+        "rules-documents-p": "Bizning maktabimiz barcha talabalar uchun xavfsiz, hurmatli va samarali ta'lim muhitini ta'minlash uchun aniq qoidalar va siyosatlarni qo'llab-quvvatlaydi",
+        "rules-title": "Maktab Qoidalari",
+        "shoolhours-title": "Maktab soatlari",
+        "documents-title": "Hujjatlar"
+    },
+    "support-faq": {
+        "support-faq-title": "Yordam va FAQ",
+        "support-faq-p": "Tez-tez beriladigan savollarga javob toping va maktabimiz haqida kerakli ma'lumotlarni oling.",
+        "support-title": "Tez-tez so'raladigan savollar",
+        "faq-title": "Bog'lanish uchun ma'lumot",
+        "work-hours": "Ish vaqti"
+    },
+    "education-page": {
+        "education-title": "Ta'lim",
+        "education-p": "Bizning maktabimiz kuchli ilmiy asosga va amaliy ko'nikmalarga ega bo'lgan har tomonlama rivojlangan talabalarni rivojlantirish uchun mo'ljallangan keng qamrovli ta'lim dasturini taklif etadi.",
+        "other-activities": "Sinfdan tashqari tadbirlar"
+    },
+    "home-page": {
+        "welcome": "Maktabimizga xush kelibsiz",
+        "welcome-text": "Bilim innovatsiyalar bilan uchrashadigan va talabalar ertangi kunning qiyinchiliklariga tayyorgarlik ko'radigan joy.",
+        "contact-us": "Biz bilan bog'lanish",
+        "upcoming-events": "Kelgusi voqiyalar",
+        "last-news": "So'ngi yangiliklar",
+        "fast-links": "Tez havolalar",
+        "events": "O'qituvchilar konferensiyasi",
+        "view-all-events": "Barcha voqiyalarni ko'rish",
+        "find-more-about-us": "Biz haqimizda ko'proq bilib oling",
+        "teachers-text": "Talabalarimizga eng yuqori sifatli ta'lim va qo'llab-quvvatlashni ta'minlashga intilgan bizning fidoyi o'qituvchilar jamoasi bilan tanishing.",
+        "quick-links": {
+            "schedule": "Sinf jadvali",
+            "documents": "Maktab hujjatlari",
+            "teachers": "Bizning o'qituvchilar",
+            "course": "Mavjud kurslar",
+            "gallery": "Photo galleriya"
+        }
+    },
+    "about-page": {
+        "about-title": "Bizning maktabimiz haqida",
+        "our-history": "Bizning tariximiz",
+        "core-values": "Asosiy qadriyatlar",
+        "mission-vision": "Missiya & Tasvirlash",
+        "our-mission": "Bizlarning Missiyamiz & Tasvirlashimiz",
+        "school-lidership": "Maktab rahbariyati",
+        "our-facilities": "Bizning imkonyatlar"
+    },
+    "teachers-page": {
+        "teachers-title": "Jamiyatimiz Bilan Tanishing"
+    }
+}
