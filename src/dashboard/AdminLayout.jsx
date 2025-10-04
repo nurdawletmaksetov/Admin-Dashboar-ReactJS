@@ -7,9 +7,9 @@ import { useTranslation } from "react-i18next";
 import { AuthContext } from "../context/auth-context";
 
 const AdminLayout = () => {
-    const { isAuth, loading } = useContext(AuthContext);
+    const { isAuth, loading } = useContext<Boolean>(AuthContext);
     const { i18n } = useTranslation();
-    const [currentLanguage, setCurrentLanguage] = useState(i18n.language);
+    const [currentLanguage, setCurrentLanguage] = useState<string>(i18n.language);
     const handleLanguageChange = (lang) => {
         i18n.changeLanguage(lang);
         setCurrentLanguage(lang);

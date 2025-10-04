@@ -9,10 +9,10 @@ import { useTranslation } from "react-i18next";
 import { notifications } from "@mantine/notifications";
 
 function AdminNews() {
-  const [news, setNews] = useState([]);
-  const [loading, setLoading] = useState(false);
-  const [page, setPage] = useState(1);
-  const [lastPage, setLastPage] = useState(1);
+  const [news, setNews] = useState<[]>([]);
+  const [loading, setLoading] = useState<boolean>(false);
+  const [page, setPage] = useState<number>(1);
+  const [lastPage, setLastPage] = useState<number>(1);
   const { t, i18n } = useTranslation();
   const language = i18n.language;
 
